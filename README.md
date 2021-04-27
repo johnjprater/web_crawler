@@ -1,2 +1,3 @@
 # web_crawler
-Web Crawler take-home coding test
+Crawl https://news.ycombinator.com/ and print out the webpage structure by running
+```python3 web_crawler.py```
